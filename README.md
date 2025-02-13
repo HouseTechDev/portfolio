@@ -113,26 +113,25 @@ NEXT_PUBLIC_EMAILJS_TEMPLATE_ID =
 NEXT_PUBLIC_EMAILJS_PUBLIC_KEY =
 ```
 
-### Then, Customize data in the `utils/data` [folder](https://github.com/athenea0118/portfolio/tree/main/utils/data).
+### Then, Customize data in the `utils/data` [folder](https://github.com/HouseTechDev/portfolio/tree/main/utils/data).
 
 Eg:
 
 ```javascript
 export const personalData = {
-  name: "Kadueng Xaysongkham",
-  profile: "/profile.png",
-  designation: "Full-Stack Software Developer",
-  description: "My name is Kadueng Xaysongkham....",
-  email: "kaduengxaysongkham@gmail.com",
-  phone: "+8562099487362",
-  address: "Vientiane, Laos",
-  github: "https://github.com/athenea0118",
-  facebook: "https://www.facebook.com/profile.php?id=61567158248931",
-  linkedIn: "https://www.linkedin.com/in/kadueng-xaysongkham-3b53a5335//",
-  twitter: "https://x.com/KaduengX36191",
-  stackOverflow: "https://stackoverflow.com/users/27899849/kadueng",
-  devUsername: "athenea0118",
-  resume: "...",
+  name: 'Bounkyo Keouthone',
+  profile: '/profile.png',
+  designation: 'Software Engineer',
+  description: 'My name is Bounkyo Keouthone....',
+  email: 'housetech993@gmail.com',
+  phone: '+8562092638655',
+  address: 'Vientiane, Laos',
+  linkedIn: '',
+  telegram: 'https://t.me/Mekky1130',
+  github: 'https://github.com/HouseTechDev',
+  stackOverflow: 'https://stackoverflow.com/users/3287000/leojindev',
+  leetcode: "https://leetcode.com/u/housetechdev/",
+  devUsername: "HouseTechDev",
 };
 ```
 
